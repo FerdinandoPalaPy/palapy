@@ -1,3 +1,5 @@
+#Lavoro di Pala e Minichiello
+
 import numpy as np
 import matplotlib.pyplot as plt
 from guizero import App, Text, PushButton, TextBox, Picture
