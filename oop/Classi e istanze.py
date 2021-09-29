@@ -9,7 +9,7 @@ class Cellulari:
 
 cellulare_uno = Cellulari("Samsung", "Galaxy A50", "Android 11")
 cellulare_due = Cellulari("Apple", "Iphone 12 Pro", "iOS 14")
-cellulare_tre = Cellulari("Xiamoi", "Mi 11X", "Android 11")
+cellulare_tre = Cellulari("Xiaomi", "Mi 11X", "Android 11")
 cellulare_quattro = Cellulari("Huawei", "Nova 9", "HarmonyOS 2.0")
 
 print(Cellulari.scheda_tecnica(cellulare_uno), "\n")
